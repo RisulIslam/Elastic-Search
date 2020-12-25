@@ -8,6 +8,7 @@ Twitter Data Stream Indexing using Elastic Search:
   (v) Visualize the location of the retrieved twitter in world map.
 
 Required packages:
+
   (i) nltk
   (ii) elasticsearch
   
