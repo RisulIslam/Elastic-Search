@@ -11,7 +11,9 @@ Required packages:
 
   1. nltk
   2. elasticsearch
-  3. geoplotlib
+  3. geocoder
+  4. geopy
+  5. json
   
 How to run the tool:
   1. Download the project
