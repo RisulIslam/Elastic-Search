@@ -1,16 +1,17 @@
 # Elastic-Search
 Twitter Data Stream Indexing using Elastic Search: 
 
-  (i) Collected the twitter data by filtering using keywords, 
-  (ii) Data cleaning and pre-processing
-  (iii)Indexing using elastic search in python,
-  (iv) Query on stored data,
-  (v) Visualize the location of the retrieved twitter in world map.
+  1. Collected the twitter data by filtering using keywords, 
+  2. Data cleaning and pre-processing
+  3. Indexing using elastic search in python,
+  4. Query on stored data,
+  5. Visualize the location of the retrieved twitter in world map.
 
 Required packages:
 
-  (i) nltk
-  (ii) elasticsearch
+  1. nltk
+  2. elasticsearch
+  3. geoplotlib
   
 How to run the tool:
   1. Download the project
