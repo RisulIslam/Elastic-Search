@@ -6,6 +6,8 @@ Twitter Data Stream Indexing using Elastic Search:
   3. Indexing using elastic search in python,
   4. Query on stored data,
   5. Visualize the location of the retrieved twitter in world map.
+  
+Prerequisite: Python 3+
 
 Required packages:
 
